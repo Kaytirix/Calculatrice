@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="boutonCalculer">Compute</string>
+    <string name="boutonDernierCalcule">Last Compute</string>
+    <string name="calculer">Compute</string>
+    <string name="nettoyer">Clean</string>
+    <string name="ValeurTropGrande">Value too big</string>
+    <string name="CalculIncomplet">Incomplet compute</string>
+    <string name="DivisionParZeroErr">Division by zero</string>
+</resources>
